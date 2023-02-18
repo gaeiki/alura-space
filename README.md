@@ -20,6 +20,9 @@
 
 ---
 
+## 🌐 Access the project
+https://alura-space-coral.vercel.app/
+
 ## ⚙️ Functionalities
 
 - [x] Exibe uma galeria de imagens do universo;
@@ -82,7 +85,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Author
 
 <a href="https://www.instagram.com/gaeiki/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64814663?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/64814663?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Gabriel Eiki</b></sub></a> <a href="https://www.linkedin.com/in/gabriel-eiki-oshiro-07b324b0/" title="Gabriel Eiki Oshiro">🚀</a>
  <br />
